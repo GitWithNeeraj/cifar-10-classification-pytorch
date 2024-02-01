@@ -25,3 +25,4 @@ References used :
 4. PyTorch. (n.d.). Pooling Layers — PyTorch 1.8.1 documentation. PyTorch. https://pytorch.org/docs/stable/generated/torch.nn.MaxPool2d.html
 5. PyTorch. (n.d.). Linear Layers — PyTorch 1.8.1 documentation. PyTorch. https://pytorch.org/docs/stable/generated/torch.nn.Linear.html
 6. PyTorch. (n.d.). Optimizers — PyTorch 1.8.1 documentation. PyTorch. https://pytorch.org/docs/stable/optim.html
+![image](https://github.com/GitWithNeeraj/cifar-10-classification-pytorch/assets/84373485/af480cbc-f2dd-4ab5-b3d1-f6b736957cbe)
