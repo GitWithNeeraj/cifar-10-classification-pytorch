@@ -27,3 +27,4 @@ References used :
 6. PyTorch. (n.d.). Optimizers — PyTorch 1.8.1 documentation. PyTorch. https://pytorch.org/docs/stable/optim.html
 
 ![image](https://github.com/GitWithNeeraj/cifar-10-classification-pytorch/assets/84373485/f881fa23-f2bd-4a91-9f4a-44645859ac30)
+![image](https://github.com/GitWithNeeraj/cifar-10-classification-pytorch/assets/84373485/b3a86cb3-dc74-47a8-a6b6-20e2c2fac3df)
